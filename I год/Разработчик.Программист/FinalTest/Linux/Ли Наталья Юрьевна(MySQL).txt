@@ -1,0 +1,223 @@
+mysql> CREATE TABLE Animals
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> FromTable VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,05 sec)
+
+mysql> CREATE TABLE Pets
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> CREATE TABLE PackAnimals
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> CREATE TABLE Cat
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> INSERT INTO Cat(Name, Type, Birthdate, Commands) VALUES
+    -> ('Барсик','Кот', '2022-01-01','Мяукает'),
+    -> ('Ковальски','Кот','2017-01-09','Царапается');
+Query OK, 2 rows affected (0,01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE Dog
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> INSERT INTO Dog(Name, Type, Birthdate, Commands) VALUES
+    -> ('Шарик','Собака', '2021-12-25','Лает'),
+    -> ('Бобик','Собака','2023-02-15','Приносит мячик');
+Query OK, 2 rows affected (0,01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE Hamster
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,05 sec)
+
+mysql> INSERT INTO Hamster(Name, Type, Birthdate, Commands) VALUES
+    -> ('Пушистик','Хомяк', '2022-01-01','Фыркает'),
+    -> ('Хома','Хомяк','2018-06-20','Крутит колесо');
+Query OK, 2 rows affected (0,01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE Horse
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,05 sec)
+
+mysql> INSERT INTO Horse(Name, Type, Birthdate, Commands) VALUES
+    -> ('Спирит','Лошадь', '2014-06-14','Скачет'),
+    -> ('Максимус','Лошадь','2022-04-12','Гарцует');
+Query OK, 2 rows affected (0,02 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE Camel
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> INSERT INTO Camel(Name, Type, Birthdate, Commands) VALUES
+    -> ('Стив','Верблюд', '2023-01-03','Гуляет'),
+    -> ('Бо','Верблюд','2021-10-10','Плюется');
+Query OK, 2 rows affected (0,01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE Donkey
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,05 sec)
+
+mysql> INSERT INTO Donkey(Name, Type, Birthdate, Commands) VALUES
+    -> ('Иа','Осел', '2022-05-21','Везет воду'),
+    -> ('Эд','Осел','2023-12-24','Упрямится');
+Query OK, 2 rows affected (0,01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> DELETE FROM Camel;
+Query OK, 2 rows affected (0,01 sec)
+
+mysql> SELECT * FROM Camel;
+Empty set (0,00 sec)
+
+mysql> CREATE TABLE HorseAndDonkey
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> Commands VARCHAR(50));
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> INSERT INTO HorseAndDonkey(Name,Type,BirthDate,Commands)
+    -> SELECT Name,Type,BirthDate,Commands FROM Horse
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Donkey;
+Query OK, 4 rows affected (0,04 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM HorseAndDonkey;
++----+------------------+--------------+------------+---------------------+
+| ID | Name             | Type         | BirthDate  | Commands            |
++----+------------------+--------------+------------+---------------------+
+|  1 | Спирит           | Лошадь       | 2014-06-14 | Скачет              |
+|  2 | Максимус         | Лошадь       | 2022-04-12 | Гарцует             |
+|  3 | Иа               | Осел         | 2022-05-21 | Везет воду          |
+|  4 | Эд               | Осел         | 2023-12-24 | Упрямится           |
++----+------------------+--------------+------------+---------------------+
+4 rows in set (0,00 sec)
+
+mysql> INSERT INTO Animals(Name,FromTable,BirthDate,Commands)
+    -> SELECT Name,Type,BirthDate,Commands FROM Cat
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Dog
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Hamster
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Horse
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Camel
+    -> UNION ALL
+    -> SELECT Name,Type,BirthDate,Commands FROM Donkey;
+Query OK, 10 rows affected (0,01 sec)
+Records: 10  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM Animals;
++----+--------------------+--------------+------------+-----------------------------+
+| ID | Name               | FromTable    | BirthDate  | Commands                    |
++----+--------------------+--------------+------------+-----------------------------+
+|  1 | Барсик             | Кот          | 2022-01-01 | Мяукает                     |
+|  2 | Ковальски          | Кот          | 2017-01-09 | Царапается                  |
+|  3 | Шарик              | Собака       | 2021-12-25 | Лает                        |
+|  4 | Бобик              | Собака       | 2023-02-15 | Приносит мячик              |
+|  5 | Пушистик           | Хомяк        | 2022-01-01 | Фыркает                     |
+|  6 | Хома               | Хомяк        | 2018-06-20 | Крутит колесо               |
+|  7 | Спирит             | Лошадь       | 2014-06-14 | Скачет                      |
+|  8 | Максимус           | Лошадь       | 2022-04-12 | Гарцует                     |
+|  9 | Иа                 | Осел         | 2022-05-21 | Везет воду                  |
+| 10 | Эд                 | Осел         | 2023-12-24 | Упрямится                   |
++----+--------------------+--------------+------------+-----------------------------+
+10 rows in set (0,00 sec)
+
+mysql> CREATE TABLE YoungAnimal
+    -> (ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Name VARCHAR(20) NOT NULL,
+    -> Type VARCHAR(20) NOT NULL,
+    -> BirthDate DATE,
+    -> AgeYear INT,
+    -> AgeMonth INT);
+Query OK, 0 rows affected (0,04 sec)
+
+mysql> INSERT INTO YoungAnimal(Name,Type,BirthDate,AgeYear,AgeMonth)
+    -> SELECT Name,FromTable,BirthDate, YEAR(current_date()) - YEAR(BirthDate) -
+    -> (CASE WHEN
+    -> MONTH(BirthDate) > MONTH(current_date()) OR
+    -> (MONTH(BirthDate) = MONTH(current_date()) AND DAY(BirthDate) > DAY(current_date()))
+    -> THEN 1
+    -> ELSE 0
+    -> END) AS AgeYear,
+    -> 12 -
+    -> (CASE
+    -> WHEN MONTH(BirthDate) < MONTH(current_date()) AND DAY(BirthDate) > DAY(current_date())
+    -> THEN MONTH(BirthDate) + 1
+    -> WHEN MONTH(BirthDate) < MONTH(current_date()) AND DAY(BirthDate) <= DAY(current_date())
+    -> THEN MONTH(BirthDate)
+    -> WHEN MONTH(BirthDate) > MONTH(current_date()) AND DAY(BirthDate) > DAY(current_date())
+    -> THEN MONTH(BirthDate)
+    -> WHEN MONTH(BirthDate) > MONTH(current_date()) AND DAY(BirthDate) <= DAY(current_date())
+    -> THEN MONTH(BirthDate) - 1
+    -> WHEN MONTH(BirthDate) = MONTH(current_date()) AND DAY(BirthDate) >= DAY(current_date())
+    -> THEN 12
+    -> WHEN MONTH(BirthDate) = MONTH(current_date()) AND DAY(BirthDate) < DAY(current_date())
+    -> THEN 1
+    -> END) AS AgeMonth
+    -> FROM Animals;
+Query OK, 10 rows affected (0,02 sec)
+Records: 10  Duplicates: 0  Warnings: 0
+
+mysql> DELETE FROM YoungAnimal WHERE AgeYear < 1 OR (AgeYear = 3 AND AgeMonth > 0) OR AgeYear > 3
+    -> LIMIT 100;
+Query OK, 5 rows affected (0,01 sec)
+
+mysql> SELECT * FROM YoungAnimal;
++----+------------------+--------------+------------+---------+----------+
+| ID | Name             | Type         | BirthDate  | AgeYear | AgeMonth |
++----+------------------+--------------+------------+---------+----------+
+|  1 | Барсик           | Кот          | 2022-01-01 |       1 |       11 |
+|  3 | Шарик            | Собака       | 2021-12-25 |       1 |        0 |
+|  5 | Пушистик         | Хомяк        | 2022-01-01 |       1 |       11 |
+|  8 | Максимус         | Лошадь       | 2022-04-12 |       1 |        8 |
+|  9 | Иа               | Осел         | 2022-05-21 |       1 |        7 |
++----+------------------+--------------+------------+---------+----------+
+5 rows in set (0,00 sec)

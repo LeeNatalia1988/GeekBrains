@@ -1,0 +1,4 @@
+авг. 06, 2023 1:51:53 PM Seminar7.CalculatorMain main
+WARNING: Ошибочка!
+авг. 06, 2023 1:51:53 PM Seminar7.CalculatorMain main
+INFO: Обрати внимание!

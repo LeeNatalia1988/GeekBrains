@@ -1,0 +1,15 @@
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+C:\GeekBrains\FirstYear\FirstQuarter\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll

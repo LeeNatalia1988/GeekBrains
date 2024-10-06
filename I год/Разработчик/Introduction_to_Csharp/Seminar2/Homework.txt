@@ -1,0 +1,43 @@
+Task10:
+Console.Clear();
+Console.WriteLine("Введите число: ");
+int a = int.Parse(Console.ReadLine());
+a = (a/10)%10;
+Console.WriteLine($"Вторая цифра данного числа: {a}.");
+
+Task 13:
+Console.Clear();
+Console.WriteLine("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+string stringNumber = Convert.ToString(a);
+if (a/100 == 0)
+{
+    Console.WriteLine("Третьей цифры нет.");
+}
+else
+{    
+    Console.WriteLine("Третья цифра этого числа: " +stringNumber[2]);
+}    
+Лучше вот так:
+Console.Write("Введи число: ");
+int anyNumber = Convert.ToInt32(Console.ReadLine());
+string anyNumberText = Convert.ToString(anyNumber);
+if (anyNumberText.Length > 2){
+  Console.WriteLine("третья цифра -> " + anyNumberText[2]);
+}
+else {
+  Console.WriteLine("-> третьей цифры нет");
+}
+
+Task15:
+Console.Clear();
+Console.WriteLine("Введите номер дня недели: ");
+int a = int.Parse(Console.ReadLine());
+if (a == 6 || a == 7)
+{
+    Console.WriteLine("Вихатной!");
+}
+else
+{
+    Console.WriteLine("Не вихатной!");
+}

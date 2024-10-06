@@ -1,0 +1,137 @@
+@font-face {
+	font-family: 'Gilroy-Bold';
+	src: url('./font/Gilroy-Bold.woff2');
+}
+@font-face {
+	font-family: 'Gilroy-Medium';
+	src: url('./font/Gilroy-Medium.woff2');
+}
+@font-face {
+	font-family: 'Gilroy-Semibold';
+	src: url('./font/Gilroy-Semibold.woff2');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body {
+	scroll-behavior: smooth;
+	background: #FFF;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+
+
+.header {
+  padding-top: 45px;
+	margin-bottom: 89px;
+}
+
+.container {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation_right {
+  width: 533px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation_right a {
+  color: #000;
+  font-family: 'Gilroy-Medium';
+  font-size: 14px;
+}
+
+.font_for_link_home {
+  color: #F25822 !important;
+  font-family: 'Gilroy-SemiBold' !important;
+}
+
+
+.main {
+  margin-bottom: 162px;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: start;
+}
+.main_left_content {
+  max-width: 522px;
+  margin-right: 41px;
+}
+
+.main_left_content h1 {
+  font-family: 'Gilroy-Bold';
+  font-size: 60px;
+  margin-bottom: 17px;
+}
+
+.main_left_content p {
+  max-width: 466px;
+  color: #888;
+  font-family: Gilroy-Medium;
+  font-size: 20px;
+}
+
+.main_left_content div {
+  margin-top: 37px;
+  max-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_left {
+  max-width: 140px;
+  max-height: 50;
+  padding: 15px 35px;
+	border-radius: 50px;
+  background: #F25822;
+  box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+  color: #FFF;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+	border: none;
+	cursor: pointer;
+}
+
+.main_left_content a {
+  color: #AAA;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+}
+
+.footer nav {
+  height: 250px;
+  display: flex;
+  align-items: center;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
