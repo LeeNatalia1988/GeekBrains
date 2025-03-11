@@ -1,0 +1,32 @@
+curl -fsSl -o get_helm.sh https://raw.githubusercontent.com/helm//helm/master/scripts/get-helm-3
+sudo chmod 700 get_helm.sh
+./get_helm.sh
+
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+
+helm install prometheus prometheus-community/prometheus
+
+helm repo add stable https://charts.helm.sh/stable
+
+helm search repo stable/mysql
+
+helm install my-sql stable/mysql
+kubectl get secret --namespace default my-sql-mysql -o jsonpath="{.data.mysql-root-password}" | base64 --decode; echo
+
+3tgm1KcO8s
+
+helm repo add metrics-server https://kubernetes-sigs.github.io/metrics-server/
+
+helm repo update
+
+helm install metrics-server metrics-server/metrics-server --namespace kube-system
+
+kubectl top pods --all-namespaces | grep -v 'NAME'
+
+helm install prometheus stable/prometheus-operator
+
+helm install grafana stable/grafana --version 5.5.6
+
+helm repo add grafana https://grafana.github.io/helm-charts
+
+kubectl port-forward svc/grafana-all 8080:80

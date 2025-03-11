@@ -1,0 +1,81 @@
+sudo nano pod-reader-role.yaml
+
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  namespace: default
+  name: pod-reader
+rules:
+- apiGroups: [""]
+  resources: ["pods"]
+  verbs: ["get", "list", "watch"]
+
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: pod-reader-rolebinding
+  namespace: default
+subjects:
+- kind: ServiceAccount #имя пользователя #Active Directory
+  name: default
+  namespace: default
+roleRef:
+  kind: Role
+  name: pod-reader
+  apiGroup: rbac.authorization.k8s.io
+
+kubectl get pods --namespace=default
+
+kubectl get roles --namespace=default
+
+kubectl get rolebindings --namespace=default
+
+kubectl describe role pod-reader --namespace=default
+
+sudo nano mydomain.com
+
+apiVersion: apiextensions.k8s.io/v1
+kind: CustomResourceDefinition
+metadata:
+  name: myresources.mydomain.com
+spec:
+  groug: mydomain.com
+  names:
+    kind: MyResource
+    listKind: MyResourceList
+    plural: myresources
+    singular: myresource
+  scope: Namespaced
+  versions:
+  - name: v1
+    served: true
+    storage: true
+    schema:
+      openAPIV3Schema:
+        type: object
+        properties:
+          spec:
+            type: object
+            properties:
+              field1:
+                type: string
+              field2:
+                type: integer
+
+mv mydomain.com my-resource-crd.yaml
+
+sudo nano myresource-instance.yaml
+
+apiVersion: mydomain.com/v1
+kind: MyResource
+metadata:
+  name: myresource-example
+  namespace: default
+spec:
+  field1: "Значение 1"
+  field2: 123
+
+kubectl get myresources.mydomain.com -n default
+
+kubectl get crd myresources.mydomain.com
+

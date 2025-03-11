@@ -1,0 +1,41 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: my-cronjob
+spec:
+  schedule: "*/5 * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: my-busybox
+            image: bysybox:1.36.1-glibc
+            args: 
+            - /bin/sh
+            - -c
+            - sleep 600
+          restartPolicy: OnFailure
+
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: my-cronjob1
+spec:
+  schedule: "*/5 * * * *"
+  startingDeadlineSeconds: 100
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: my-busybox1
+            image: busybox:1.36.1-glibc
+            command: ["/bin/sh/", "-c", "sleep 100"]
+          restartPolicy: OnFailure
+  Allow (если задача в 600 сек еще не до конца выполнилась, а политика перезапуска 5 минут, то есть 600 больше 5 минут, то позволить запускать не дожидаясь окончания завершения 600 сек), 
+  Forbid (если предыдущий запуск еще не завершился, то следующий запуск мы пропускаем), 
+  Replace (если предыдущий запуск еще не завершился, то он будет отменен и заменен новым запуском), 
+  Never (не будет перезапускаться независимо от статуса выхода)
+
+kubectl create job --from=cronjob/my-cronjob1 manual-triggered-job

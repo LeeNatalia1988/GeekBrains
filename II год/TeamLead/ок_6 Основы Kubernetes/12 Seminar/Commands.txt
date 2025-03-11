@@ -1,0 +1,14 @@
+kubectl exec postgres-1-0 --stdin --tty -- psql -U exampleuser -d exampledb -c "SELECT * FROM example_table;"
+kubectl apply -f postgres-service-2.yaml
+sudo nano storage-class-WaitForFirstConsumer.yaml 
+kubectl apply -f storage-class-WaitForFirstConsumer.yaml 
+sudo nano postgres-pv-2.yaml
+kubectl apply -f postgres-pv-2.yaml
+
+
+
+kubectl exec postgres-2-0 --stdin --tty -- psql -U exampleuser -d exampledb -c "CREATE TABLE example_table (id SERIAL PRIMARY KEY, data VARCHAR(100));"
+kubectl exec postgres-2-0 --stdin --tty -- psql -U exampleuser -d exampledb -c "INSERT INTO example_table (data) VALUES ('Hello');"
+kubectl exec postgres-2-0 --stdin --tty -- psql -U exampleuser -d exampledb -c "SELECT * FROM example_table;"
+
+
