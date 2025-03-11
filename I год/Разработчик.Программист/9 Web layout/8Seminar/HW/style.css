@@ -1,0 +1,440 @@
+@font-face {
+  font-family: 'Lato-300';
+  src: url('./font/Lato-300.ttf');
+}
+
+@font-face {
+  font-family: 'Lato-400';
+  src: url('./font/Lato-400.ttf');
+}
+
+@font-face {
+  font-family: 'Lato-700';
+  src: url('./font/Lato-700.ttf');
+}
+
+@font-face {
+  font-family: 'Lato-900';
+  src: url('./font/Lato-900.ttf');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body {
+	scroll-behavior: smooth;
+	background: #FFF;
+  font-style: normal;
+  font-family: 'Lato-400';
+  line-height: normal;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+.header {
+  max-height: 75px;
+  padding-top: 18px;
+  padding-bottom: 19px;
+  background-color: #222;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_menu_left {
+  display: flex;
+  gap: 41px;
+}
+
+.header_menu_right {
+  display: flex;
+  gap: 33px;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+.brand {
+  background: #FFF;
+  margin-bottom: 65px;
+  display: flex;
+  justify-content: center;
+}
+
+.brand_section {
+  background: #F1E4E6;
+  width: 1600px;
+  display: flex;
+  justify-content: start;
+  gap: 63.42px;
+}
+
+.brand_right {
+  margin-top: 290px;
+  margin-bottom: 381px;
+  padding-left: 16px;
+  width: 405px;
+  height: 93px;
+  border-left: 12px solid #F16D7F;
+}
+
+.the_brand {
+  color: #222;
+  font-family: 'Lato-900';
+  font-size: 48px;
+}
+
+.of_luxerious {
+  color: #222;
+  font-family: 'Lato-700';
+  font-size: 32px;
+}
+
+.fashion {
+  color: #F16D7F;
+}
+
+.categories {
+  margin-bottom: 96px;
+  display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	gap: 30px;
+  background-color: #FFF;
+}
+
+.categories_card div {
+  background-color: rgba(33, 22, 22, 0.70);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.white_text {
+  text-align: center;
+  color: #FFF;
+  font-family: 'Lato-400';
+  font-size: 16px;
+}
+
+.pink_text {
+  text-align: center;
+  color: #F16D7F;
+  font-family: 'Lato-700';
+  font-size: 24px;
+}
+
+.for_women {
+  height: 260px;
+  display: grid;
+  grid-row-start: 1;
+  grid-row-end: span 2;
+  background-image: url('./img/categories/for_women.png');
+}
+
+.for_men {
+  height: 260px;
+  display: grid;
+  grid-row-start: 1;
+  grid-row-end: span 2;
+  background-image: url('./img/categories/for_men.png');
+}
+
+.for_kids {
+  height: 260px;
+  display: grid;
+  grid-row-start: 1;
+  grid-row-end: span 2;
+  background-image: url('./img/categories/for_kids.png');
+}
+
+.accesories {
+  height: 180px;
+  display: grid;
+  grid-column-start: 1;
+  grid-column-end: span 3;
+  background-image: url('./img/categories/accesories.png');
+}
+
+.black_text {
+  text-align: center;
+  color: #222;
+  font-family: 'Lato-400';
+  font-size: 30px;
+  margin-bottom: 6px;
+}
+
+.gray_text {
+  text-align: center;
+  color: #9F9F9F;
+  font-family: 'Lato-400';
+  font-size: 14px;
+  margin-bottom: 48px;
+}
+
+.catalog {
+  background-color: #FFF;
+  margin-bottom: 48px;
+}
+
+.catalog_product {
+  display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	gap: 25px;
+  background-color: #FFF;
+}
+
+.product_card {
+  background-color: #F8F8F8;
+}
+
+.product_text {
+  margin: 24px 16px;
+  display: flex;
+  gap: 16px;
+  align-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.product_name {
+  color: #000;
+  font-family: 'Lato-400';
+  font-size: 13px;
+}
+
+.product_info {
+  width: 315px;
+  color: #5D5D5D;
+  font-family: 'Lato-300';
+  font-size: 14px;
+}
+
+.price {
+  color: #F16D7F;
+  font-family: 'Lato-400';
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #FFF;
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer_button button {
+  width: 212px;
+  height: 48px;
+  border: 1px solid #FF6A6A;
+  color: #F26376;
+  font-family: 'Lato-400';
+  font-size: 16px;
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+
+  .container {
+    width: 735px;
+    margin: 0 auto;
+  }
+
+  .brand_section {
+    max-width: 768px;
+    gap: 39px;
+  }
+
+  .brand_section img {
+    width: 386px;
+    height: 368px;
+  }
+  
+  .brand_right {
+    margin-top: 138px;
+    margin-bottom: 152px;
+    width: 283px;
+    height: 78px;
+  }
+  
+  .the_brand {
+    font-size: 44px;
+  }
+  
+  .of_luxerious {
+    font-size: 24px;
+  }
+  
+  .categories {
+    margin-bottom: 110px;
+    gap: 20px;
+  }
+
+  .for_women {
+    height: 168px;
+    background-size: 232px;
+  }
+  
+  .for_men {
+    height: 168px;
+    background-size: 232px;
+  }
+  
+  .for_kids {
+    height: 168px;
+    background-size: 232px;
+  }
+  
+  .accesories {
+    height: 116px;
+    background-size: 735px;
+  }
+  
+  .black_text {
+    margin-bottom: 3.3px;
+  }
+  
+  .gray_text {
+    margin-bottom: 74px;
+  }
+
+  .catalog {
+    margin-bottom: 33px;
+  }
+  
+  .catalog_product {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 15px;
+  }
+
+  .footer {
+    margin-bottom: 71px;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 375px) {
+
+  .container {
+    width: 343px;
+    margin: 0 auto;
+  }
+
+  .header_menu_right__entrance,
+  .header_menu_right__basket {
+    display: none;
+  }
+  
+  .brand {
+    height: 363px;
+  }
+  
+  .brand_section {
+    max-width: 767px;
+    height: 363px;
+    gap: 0;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 64px;
+  }
+
+  .brand_section img {
+    display: none;
+  }
+
+  .brand_right {
+    margin: 0;
+    padding-left: 15px;
+    width: 236px;
+    height: 66px;
+  }
+
+  .the_brand {
+    font-size: 38px;
+  }
+  
+  .of_luxerious {
+    font-size: 20px;
+  }
+
+  .categories {
+    margin-bottom: 64px;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .for_women {
+    height: 247px;
+    background-size: 343px;
+  }
+  
+  .for_men {
+    height: 247px;
+    background-size: 343px;
+  }
+  
+  .for_kids {
+    height: 247px;
+    background-size: 343px;
+  }
+  
+  .accesories {
+    height: 116px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .black_text {
+    margin-bottom: 3.3px;
+  }
+  
+  .gray_text {
+    margin-bottom: 65px;
+  }
+
+  .catalog {
+    margin-bottom: 41px;
+  }
+  
+  .catalog_product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  .product_text {
+    margin: 25px 16px 20px 16px;
+    gap: 0;
+  }
+  
+  .product_name {
+    margin-bottom: 13px;
+  }
+  
+  .product_info {
+    margin-bottom: 18px;
+  }
+  
+  .footer {
+    margin-bottom: 85px;
+  }
+}

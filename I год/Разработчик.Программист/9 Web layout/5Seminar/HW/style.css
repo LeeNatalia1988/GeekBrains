@@ -1,0 +1,270 @@
+@font-face {
+	font-family: 'Gilroy-Bold';
+	src: url('./font/Gilroy-Bold.woff2');
+}
+@font-face {
+	font-family: 'Gilroy-Medium';
+	src: url('./font/Gilroy-Medium.woff2');
+}
+@font-face {
+	font-family: 'Gilroy-Semibold';
+	src: url('./font/Gilroy-Semibold.woff2');
+}
+
+@font-face {
+	font-family: 'Gilroy-Regular';
+	src: url('./font/Gilroy-Regular.woff2');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body {
+	scroll-behavior: smooth;
+	background: #FFF;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+.header {
+  padding-top: 45px;
+	margin-bottom: 89px;
+}
+
+.container {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation_right {
+  width: 533px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation_right a {
+  color: #000;
+  font-family: 'Gilroy-Medium';
+  font-size: 14px;
+}
+
+.font_for_link_home {
+  color: #F25822 !important;
+  font-family: 'Gilroy-SemiBold' !important;
+}
+
+
+.main {
+  margin-bottom: 162px;
+  background: #FAFAFA;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: start;
+}
+.main_left_content {
+  max-width: 522px;
+  margin-right: 41px;
+}
+
+.main_left_content h1 {
+  font-family: 'Gilroy-Bold';
+  font-size: 60px;
+  margin-bottom: 17px;
+}
+
+.main_left_content p {
+  max-width: 466px;
+  color: #888;
+  font-family: Gilroy-Medium;
+  font-size: 20px;
+}
+
+.main_left_content div {
+  margin-top: 37px;
+  max-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_left {
+  max-width: 140px;
+  max-height: 50;
+  padding: 15px 35px;
+	border-radius: 50px;
+  background: #F25822;
+  box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+  color: #FFF;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+	border: none;
+	cursor: pointer;
+}
+
+.main_left_content a {
+  color: #AAA;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+}
+
+.logos {
+  margin-top: 162px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cards_top {
+  padding: 100px 0;
+  display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr;
+	gap: 30px;
+}
+
+.card_top {
+  border: 1px solid #000;
+	padding: 40px;
+	text-align: start;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+	align-items: start;
+}
+
+.card_top h2 {
+  color: #000;
+  font-family: 'Gilroy-Bold';
+  font-size: 24px;
+}
+
+.card_top p {
+  color: #666;
+  font-family: 'Gilroy-Regular';
+  font-size: 15px;
+  line-height: 150%; /* 22.5px */
+}
+
+.card_top a {
+  color: #000;
+  font-family: 'Gilroy-Bold';
+  font-size: 11px;
+  line-height: 150%; /* 16.5px */
+}
+
+.with_box_shadow {
+  box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+}
+
+.cards_bottom {
+  padding: 92px 0 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cards_bottom h1 {
+  max-width: 579px;
+  text-align: center;
+  color: #000;
+  font-family: 'Gilroy-Bold';
+  font-size: 45px;
+  margin-bottom: 19px;
+}
+
+.cards_bottom p {
+  max-width: 682px;
+  color: #666;
+  text-align: center;
+  font-family: 'Gilroy-Regular';
+  font-size: 16px;
+  line-height: 150%; /* 24px */
+}
+
+.cards_bottom div {
+  padding: 70px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr;
+	gap: 30px;
+}
+
+.card_bottom {
+  background: #FFF;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card_bottom h3 {
+  padding-top: 25px;
+  color: #000;
+  font-family: Gilroy-Bold;
+  font-size: 24px;
+}
+
+.card_bottom p {
+  padding-top: 22px;
+  padding-bottom: 39px;
+  color: #AAA;
+  text-align: center;
+  font-family: 'Gilroy-Regular';
+  font-size: 15px;
+  line-height: 150%; /* 22.5px */
+}
+
+.card_bottom button {
+  max-width: 150px;
+  max-height: 50;
+  padding: 15px 21px 15px 46px;
+  background-color: #FFF;
+  border-radius: 50px;
+  background: #F25822;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Gilroy-Bold';
+  font-size: 13px;
+	border: none;
+	cursor: pointer;
+  line-height: 150%; /* 19.5px */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+	gap: 1.5px;
+}
+
+.button img {
+  margin: 1.5px;
+  max-width: 4px;
+  max-height: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

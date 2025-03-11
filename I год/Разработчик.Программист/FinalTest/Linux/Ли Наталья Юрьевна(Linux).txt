@@ -1,0 +1,42 @@
+1)
+lee@lee-VirtualBox:~$ cat > Pets.txt
+Собаки
+Кошки
+Хомяки
+lee@lee-VirtualBox:~$ cat > Pack_animals.txt
+Лошади
+Верблюды
+Ослы
+
+lee@lee-VirtualBox:~$ cat Pets.txt Pack_animals.txt > Animals
+lee@lee-VirtualBox:~$ nano Animals.txt
+Собаки
+Кошки
+Хомяки�Лошади
+Верблюды
+Ослы
+
+lee@lee-VirtualBox:~$ mv Animals.txt HumanFriends.txt
+lee@lee-VirtualBox:~$ ls
+ HumanFriends.txt      Pack_animals.txt   snap         wordpress   Загрузки      Общедоступные
+ my_crontab_test.txt   Pets.txt           test_files   Видео       Изображения  'Рабочий стол'
+ Pack                  Seminar5           ubuntu       Документы   Музыка        Шаблоны
+lee@lee-VirtualBox:~$
+
+2)
+lee@lee-VirtualBox:~$ mkdir HumanFriends
+lee@lee-VirtualBox:~$ mv HumanFriends.txt HumanFriends
+lee@lee-VirtualBox:~$ cd HumanFriends/
+lee@lee-VirtualBox:~/HumanFriends$ ls
+HumanFriends.txt
+lee@lee-VirtualBox:~/HumanFriends$
+
+3)
+lee@lee-VirtualBox:~$ lee@lee-VirtualBox:~$ sudo nano /etc/apt/sources.list
+deb http://repo.mysql.com/apt/ubuntu/ mysql-server-8.0 main
+lee@lee-VirtualBox:~$ sudo apt install mysql-server-8.0
+
+4)
+lee@lee-VirtualBox:~/ubuntu$ sudo dpkg -i nginx-common_1.24.0-1_all.deb
+lee@lee-VirtualBox:~/ubuntu$ sudo dpkg -i nginx_1.24.0-1_amd64.deb
+lee@lee-VirtualBox:~/ubuntu$ sudo dpkg -r nginx

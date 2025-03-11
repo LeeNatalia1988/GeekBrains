@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-18T15:02:46.410131200Z</date>
+  <millis>1689692566410</millis>
+  <nanos>131200</nanos>
+  <sequence>0</sequence>
+  <logger>main.Seminar_2.Task_2</logger>
+  <level>INFO</level>
+  <class>main.Seminar_2.Task_2</class>
+  <method>listSort</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+<record>
+  <date>2023-07-18T15:02:46.483956200Z</date>
+  <millis>1689692566483</millis>
+  <nanos>956200</nanos>
+  <sequence>1</sequence>
+  <logger>main.Seminar_2.Task_2</logger>
+  <level>INFO</level>
+  <class>main.Seminar_2.Task_2</class>
+  <method>listSort</method>
+  <thread>1</thread>
+  <message>Итерация: 0; Массив: [-8, 90, 1, 4, 34]
+</message>
+</record>
+<record>
+  <date>2023-07-18T15:02:46.483956200Z</date>
+  <millis>1689692566483</millis>
+  <nanos>956200</nanos>
+  <sequence>2</sequence>
+  <logger>main.Seminar_2.Task_2</logger>
+  <level>INFO</level>
+  <class>main.Seminar_2.Task_2</class>
+  <method>listSort</method>
+  <thread>1</thread>
+  <message>Итерация: 1; Массив: [-8, 1, 4, 34, 90]
+</message>
+</record>
+<record>
+  <date>2023-07-18T15:02:46.485965500Z</date>
+  <millis>1689692566485</millis>
+  <nanos>965500</nanos>
+  <sequence>3</sequence>
+  <logger>main.Seminar_2.Task_2</logger>
+  <level>INFO</level>
+  <class>main.Seminar_2.Task_2</class>
+  <method>listSort</method>
+  <thread>1</thread>
+  <message>Итерация: 2; Массив: [-8, 1, 4, 34, 90]
+</message>
+</record>
+<record>
+  <date>2023-07-18T15:02:46.490145300Z</date>
+  <millis>1689692566490</millis>
+  <nanos>145300</nanos>
+  <sequence>4</sequence>
+  <logger>main.Seminar_2.Task_2</logger>
+  <level>INFO</level>
+  <class>main.Seminar_2.Task_2</class>
+  <method>listSort</method>
+  <thread>1</thread>
+  <message>Итерация: 3; Массив: [-8, 1, 4, 34, 90]
+</message>
+</record>
+</log>

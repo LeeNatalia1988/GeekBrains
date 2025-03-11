@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 Java/2 Java.iml" filepath="$PROJECT_DIR$/2 Java/2 Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 OOP (семинары и лекции)/3 OOP (семинары и лекции).iml" filepath="$PROJECT_DIR$/3 OOP (семинары и лекции)/3 OOP (семинары и лекции).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 OOPHomeWork/4 OOPHomeWork.iml" filepath="$PROJECT_DIR$/4 OOPHomeWork/4 OOPHomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstQuarter.Programmer.iml" filepath="$PROJECT_DIR$/FirstQuarter.Programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 OOP (семинары и лекции)/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/3 OOP (семинары и лекции)/Seminar4/Seminar4.iml" />
+    </modules>
+  </component>
+</project>
