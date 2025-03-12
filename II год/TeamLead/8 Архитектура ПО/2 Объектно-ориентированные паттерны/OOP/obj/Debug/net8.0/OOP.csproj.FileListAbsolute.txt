@@ -1,0 +1,15 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\bin\Debug\net8.0\OOP.exe
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\bin\Debug\net8.0\OOP.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\bin\Debug\net8.0\OOP.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\2 Объектно-ориентированные паттерны\OOP\obj\Debug\net8.0\ref\OOP.dll

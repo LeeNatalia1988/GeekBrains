@@ -22,7 +22,7 @@
 *.drawio
 *.drawio.bkp
 *.editorconfig
-SocketChat.DAL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+*.vsidx
 
 # Logs and databases #
 ######################
