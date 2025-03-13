@@ -1,0 +1,15 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\3 Принципы SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
