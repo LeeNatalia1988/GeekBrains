@@ -1,0 +1,15 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\bin\Debug\net8.0\Components.exe
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\bin\Debug\net8.0\Components.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\bin\Debug\net8.0\Components.runtimeconfig.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\bin\Debug\net8.0\Components.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\bin\Debug\net8.0\Components.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\refint\Components.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\Components.genruntimeconfig.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Components\obj\Debug\net8.0\ref\Components.dll

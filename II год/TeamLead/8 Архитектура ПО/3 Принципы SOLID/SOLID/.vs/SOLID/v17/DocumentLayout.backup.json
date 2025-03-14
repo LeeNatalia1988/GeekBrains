@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\cars\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:cars\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\cars\\harvester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:cars\\harvester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\aboutcars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:aboutcars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\aboutcars\\harvester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:aboutcars\\harvester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\aboutwiping\\wipingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:aboutwiping\\wipingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\3 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B solid\\solid\\aboutwiping\\iwipingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F7664F-C878-426D-9D83-A8CD2B1C2A35}|SOLID.csproj|solutionrelative:aboutwiping\\iwipingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Car.cs",
-              "RelativeDocumentMoniker": "AboutCars\\Car.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Car.cs",
-              "RelativeToolTip": "AboutCars\\Car.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAcwEsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "WipingStation.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutWiping\\WipingStation.cs",
+              "RelativeDocumentMoniker": "AboutWiping\\WipingStation.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutWiping\\WipingStation.cs",
+              "RelativeToolTip": "AboutWiping\\WipingStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:27:35.271Z",
+              "WhenOpened": "2025-03-13T08:44:18.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWipingStation.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutWiping\\IWipingStation.cs",
+              "RelativeDocumentMoniker": "AboutWiping\\IWipingStation.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutWiping\\IWipingStation.cs",
+              "RelativeToolTip": "AboutWiping\\IWipingStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:44:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportCar.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Cars\\SportCar.cs",
+              "RelativeDocumentMoniker": "Cars\\SportCar.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Cars\\SportCar.cs",
+              "RelativeToolTip": "Cars\\SportCar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:37:46.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Harvester.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Harvester.cs",
-              "RelativeDocumentMoniker": "AboutCars\\Harvester.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Harvester.cs",
-              "RelativeToolTip": "AboutCars\\Harvester.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Cars\\Harvester.cs",
+              "RelativeDocumentMoniker": "Cars\\Harvester.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Cars\\Harvester.cs",
+              "RelativeToolTip": "Cars\\Harvester.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:55:33.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Car.cs",
+              "RelativeDocumentMoniker": "AboutCars\\Car.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\AboutCars\\Car.cs",
+              "RelativeToolTip": "AboutCars\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:27:35.271Z",
               "EditorCaption": ""
             },
             {
@@ -60,9 +111,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDIAAACaAAAAAAAAAA==",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\3 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B SOLID\\SOLID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T12:38:16.874Z",
               "EditorCaption": ""

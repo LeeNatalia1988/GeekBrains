@@ -1,0 +1,15 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\bin\Debug\net8.0\Task3.exe
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\bin\Debug\net8.0\Task3.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\bin\Debug\net8.0\Task3.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\4 Компоненты. Принципы связности и сочетаемости компонентов\Task3\obj\Debug\net8.0\ref\Task3.dll
