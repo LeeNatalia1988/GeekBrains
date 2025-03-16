@@ -1,0 +1,15 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\bin\Debug\net8.0\Seminar5.exe
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\bin\Debug\net8.0\Seminar5.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\bin\Debug\net8.0\Seminar5.runtimeconfig.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\bin\Debug\net8.0\Seminar5.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\bin\Debug\net8.0\Seminar5.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\refint\Seminar5.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\Seminar5.genruntimeconfig.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\5 Горизонтальные уровни и вертикальные срезы архитектуры\Seminar5\obj\Debug\net8.0\ref\Seminar5.dll
