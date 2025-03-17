@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\db\\editordatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:db\\editordatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\entities\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:entities\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\entities\\model3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:entities\\model3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\dal\\editordatabaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:dal\\editordatabaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\bll\\editorbusinesslogicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:bll\\editorbusinesslogicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\ui\\editor3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:ui\\editor3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\ui\\iuilayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:ui\\iuilayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\bll\\ibusinesslogicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:bll\\ibusinesslogicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\db\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:db\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\5 \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\seminar5\\dal\\idatabaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7DF080-FFEC-46AA-B6F7-2D2A2867EA57}|Seminar5.csproj|solutionrelative:dal\\idatabaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +22,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EditorBusinessLogicalLayer.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\BLL\\EditorBusinessLogicalLayer.cs",
               "RelativeDocumentMoniker": "BLL\\EditorBusinessLogicalLayer.cs",
@@ -75,149 +31,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T06:20:07.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditorDatabaseAccess.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DAL\\EditorDatabaseAccess.cs",
-              "RelativeDocumentMoniker": "DAL\\EditorDatabaseAccess.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DAL\\EditorDatabaseAccess.cs",
-              "RelativeToolTip": "DAL\\EditorDatabaseAccess.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwEEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:50:55.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model3D.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\Model3D.cs",
-              "RelativeDocumentMoniker": "Entities\\Model3D.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\Model3D.cs",
-              "RelativeToolTip": "Entities\\Model3D.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:44:55.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Texture.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\Texture.cs",
-              "RelativeDocumentMoniker": "Entities\\Texture.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\Texture.cs",
-              "RelativeToolTip": "Entities\\Texture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:46:26.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditorDatabase.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DB\\EditorDatabase.cs",
-              "RelativeDocumentMoniker": "DB\\EditorDatabase.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DB\\EditorDatabase.cs",
-              "RelativeToolTip": "DB\\EditorDatabase.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAD4vyYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:45:30.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Editor3D.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\UI\\Editor3D.cs",
-              "RelativeDocumentMoniker": "UI\\Editor3D.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\UI\\Editor3D.cs",
-              "RelativeToolTip": "UI\\Editor3D.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAADwv4MAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:23:58.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:25:51.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IDatabaseAccess.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DAL\\IDatabaseAccess.cs",
-              "RelativeDocumentMoniker": "DAL\\IDatabaseAccess.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DAL\\IDatabaseAccess.cs",
-              "RelativeToolTip": "DAL\\IDatabaseAccess.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:51:36.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBusinessLogicalLayer.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\BLL\\IBusinessLogicalLayer.cs",
-              "RelativeDocumentMoniker": "BLL\\IBusinessLogicalLayer.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\BLL\\IBusinessLogicalLayer.cs",
-              "RelativeToolTip": "BLL\\IBusinessLogicalLayer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:05:33.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUILayer.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\UI\\IUILayer.cs",
-              "RelativeDocumentMoniker": "UI\\IUILayer.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\UI\\IUILayer.cs",
-              "RelativeToolTip": "UI\\IUILayer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:23:12.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IDatabase.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DB\\IDatabase.cs",
-              "RelativeDocumentMoniker": "DB\\IDatabase.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\DB\\IDatabase.cs",
-              "RelativeToolTip": "DB\\IDatabase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:43:43.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\IEntity.cs",
-              "RelativeDocumentMoniker": "Entities\\IEntity.cs",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\5 \u0413\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u0438 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0440\u0435\u0437\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u044B\\Seminar5\\Entities\\IEntity.cs",
-              "RelativeToolTip": "Entities\\IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:51:46.771Z",
               "EditorCaption": ""
             }
           ]

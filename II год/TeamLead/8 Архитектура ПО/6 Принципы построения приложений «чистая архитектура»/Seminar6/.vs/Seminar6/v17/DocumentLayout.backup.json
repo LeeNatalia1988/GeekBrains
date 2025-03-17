@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\notes\\core\\domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:notes\\core\\domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\db\\notestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:db\\notestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\notes\\core\\application\\concretenoteeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:notes\\core\\application\\concretenoteeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\notes\\infrastructure\\persistance\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:notes\\infrastructure\\persistance\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\notes\\presentation\\queries\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:notes\\presentation\\queries\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\6 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\seminar6\\notes\\core\\application\\interfaces\\inotesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD2FD0-1F8F-49A4-8663-FCC0F84D1F2D}|Seminar6.csproj|solutionrelative:notes\\core\\application\\interfaces\\inotesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Presentation\\Queries\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Notes\\Presentation\\Queries\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Presentation\\Queries\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Notes\\Presentation\\Queries\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:28:50.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Domain\\Note.cs",
+              "RelativeDocumentMoniker": "Notes\\Core\\Domain\\Note.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Domain\\Note.cs",
+              "RelativeToolTip": "Notes\\Core\\Domain\\Note.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:39:09.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotesDatabaseContext.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Application\\Interfaces\\INotesDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Notes\\Core\\Application\\Interfaces\\INotesDatabaseContext.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Application\\Interfaces\\INotesDatabaseContext.cs",
+              "RelativeToolTip": "Notes\\Core\\Application\\Interfaces\\INotesDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:21:47.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:54:33.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Infrastructure\\Persistance\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "Notes\\Infrastructure\\Persistance\\NotesDbContext.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Infrastructure\\Persistance\\NotesDbContext.cs",
+              "RelativeToolTip": "Notes\\Infrastructure\\Persistance\\NotesDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:30:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesTable.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\DB\\NotesTable.cs",
+              "RelativeDocumentMoniker": "DB\\NotesTable.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\DB\\NotesTable.cs*",
+              "RelativeToolTip": "DB\\NotesTable.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:28:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteNoteEditor.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Application\\ConcreteNoteEditor.cs",
+              "RelativeDocumentMoniker": "Notes\\Core\\Application\\ConcreteNoteEditor.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\6 \u041F\u0440\u0438\u043D\u0446\u0438\u043F\u044B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u00AB\u0447\u0438\u0441\u0442\u0430\u044F \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430\u00BB\\Seminar6\\Notes\\Core\\Application\\ConcreteNoteEditor.cs",
+              "RelativeToolTip": "Notes\\Core\\Application\\ConcreteNoteEditor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:38:04.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
