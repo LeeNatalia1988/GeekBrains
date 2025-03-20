@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\7 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 mpa, spa\\hw\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|solutionrelative:views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\7 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 mpa, spa\\hw\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\7 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 mpa, spa\\hw\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|solutionrelative:views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\7 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 mpa, spa\\hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD53785-C709-4CD1-9464-5048E3FB6F64}|HW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T09:08:17.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -80,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -93,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
@@ -106,12 +93,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\About.cshtml*",
-              "RelativeToolTip": "Views\\Home\\About.cshtml*",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-18T09:19:05.951Z",
@@ -119,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\libman.json",
               "RelativeDocumentMoniker": "libman.json",
@@ -132,7 +119,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contacts.cshtml",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T09:18:00.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T09:08:17.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -142,18 +155,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:21:02.335Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Contacts.cshtml",
-              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\Contacts.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contacts.cshtml",
-              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\7 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 WEB-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 MPA, SPA\\HW\\Views\\Home\\Contacts.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contacts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T09:18:00.411Z"
             },
             {
               "$type": "Document",
