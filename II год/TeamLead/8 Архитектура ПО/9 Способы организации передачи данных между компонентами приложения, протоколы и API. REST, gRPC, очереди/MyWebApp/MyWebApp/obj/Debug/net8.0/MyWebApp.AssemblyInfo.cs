@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MVP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MyWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30d1c26c1832a10dd7abc5f25fc44a04218bc3ec")]
-[assembly: System.Reflection.AssemblyProductAttribute("MVP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MVP")]
+[assembly: System.Reflection.AssemblyProductAttribute("MyWebApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MyWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\8 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) mvc, mvp, mvvm\\mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\8 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) mvc, mvp, mvvm\\mvp\\models\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|solutionrelative:models\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\8 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) mvc, mvp, mvvm\\mvp\\views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|solutionrelative:views\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\8 \u0442\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) mvc, mvp, mvvm\\mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2227FF77-8AB9-4C71-96B4-43A1AAA0B932}|MVP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BookingView.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Views\\BookingView.cs",
               "RelativeDocumentMoniker": "Views\\BookingView.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookingPresenter.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Presenters\\BookingPresenter.cs",
               "RelativeDocumentMoniker": "Presenters\\BookingPresenter.cs",
@@ -60,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TableModel.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Models\\TableModel.cs",
               "RelativeDocumentMoniker": "Models\\TableModel.cs",
               "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Models\\TableModel.cs",
               "RelativeToolTip": "Models\\TableModel.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAnwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwC8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T09:35:15.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\8 \u0422\u0438\u043F\u044B \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440 \u043F\u0440\u0438\u043A\u043B\u0430\u0434\u043D\u044B\u0445 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 (\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435) MVC, MVP, MVVM\\MVP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDYAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDYAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T08:44:19.327Z",
               "EditorCaption": ""
