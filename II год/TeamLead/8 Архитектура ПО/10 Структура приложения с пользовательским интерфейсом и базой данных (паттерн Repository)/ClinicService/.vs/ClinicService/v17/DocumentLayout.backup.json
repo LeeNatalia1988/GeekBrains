@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\services\\impl\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\services\\impl\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\services\\impl\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\services\\impl\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|c:\\geekbrains\\ii \u0433\u043E\u0434\\teamlead\\8 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043F\u043E\\10 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D repository)\\clinicservice\\clinicservice\\services\\impl\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF29BB-5C42-4AEE-89C6-EA48B84CC036}|ClinicService\\ClinicService.csproj|solutionrelative:clinicservice\\services\\impl\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultationRepository.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\ConsultationRepository.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Services\\Impl\\ConsultationRepository.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\ConsultationRepository.cs",
+              "RelativeToolTip": "ClinicService\\Services\\Impl\\ConsultationRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAIA8wGIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:56:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\PetController.cs",
+              "RelativeToolTip": "ClinicService\\Controllers\\PetController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:45:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClinicService\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:20:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\PetRepository.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Services\\Impl\\PetRepository.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\PetRepository.cs",
+              "RelativeToolTip": "ClinicService\\Services\\Impl\\PetRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:18:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Program.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Program.cs",
+              "RelativeToolTip": "ClinicService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:10:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultationController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\ConsultationController.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Controllers\\ConsultationController.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Controllers\\ConsultationController.cs",
+              "RelativeToolTip": "ClinicService\\Controllers\\ConsultationController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:53:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicService\\Services\\Impl\\ClientRepository.cs",
+              "ToolTip": "C:\\GeekBrains\\II \u0433\u043E\u0434\\TeamLead\\8 \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u041F\u041E\\10 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0441 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\u043C \u0438 \u0431\u0430\u0437\u043E\u0439 \u0434\u0430\u043D\u043D\u044B\u0445 (\u043F\u0430\u0442\u0442\u0435\u0440\u043D Repository)\\ClinicService\\ClinicService\\Services\\Impl\\ClientRepository.cs",
+              "RelativeToolTip": "ClinicService\\Services\\Impl\\ClientRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:16:16.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
