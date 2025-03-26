@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b80h1jSufxZS0iLlNLzxRNQL42ojKaKdXK2ATZBUmsk=",
+  "Source": "ClinicService",
+  "BasePath": "_content/ClinicService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

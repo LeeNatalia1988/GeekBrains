@@ -1,0 +1,13 @@
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\bin\Debug\net8.0\ClinicDesktopData.deps.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\bin\Debug\net8.0\ClinicDesktopData.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\bin\Debug\net8.0\ClinicDesktopData.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.csproj.AssemblyReference.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.AssemblyInfoInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.AssemblyInfo.cs
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.csproj.CoreCompileInputs.cache
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.sourcelink.json
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\refint\ClinicDesktopData.dll
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ClinicDesktopData.pdb
+C:\GeekBrains\II год\TeamLead\8 Архитектура ПО\11 Сервис-ориентированные архитектуры\ClinicService\ClinicDesktopData\obj\Debug\net8.0\ref\ClinicDesktopData.dll

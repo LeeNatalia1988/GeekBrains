@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ClinicService\\ClinicService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClinicDesktop\\ClinicDesktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
