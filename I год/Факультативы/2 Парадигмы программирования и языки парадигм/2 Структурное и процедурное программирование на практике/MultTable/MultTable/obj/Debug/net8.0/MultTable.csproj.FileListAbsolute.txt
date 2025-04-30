@@ -1,0 +1,15 @@
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.AssemblyInfoInputs.cache
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.AssemblyInfo.cs
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.csproj.CoreCompileInputs.cache
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.sourcelink.json
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\bin\Debug\net8.0\MultTable.exe
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\bin\Debug\net8.0\MultTable.deps.json
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\bin\Debug\net8.0\MultTable.runtimeconfig.json
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\bin\Debug\net8.0\MultTable.dll
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\bin\Debug\net8.0\MultTable.pdb
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.dll
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\refint\MultTable.dll
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.pdb
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\MultTable.genruntimeconfig.cache
+C:\GeekBrains\I год\Факультативы\2 Парадигмы программирования и языки парадигм\2 Структурное и процедурное программирование на практике\MultTable\MultTable\obj\Debug\net8.0\ref\MultTable.dll
