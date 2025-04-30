@@ -11,7 +11,7 @@
         static void View()
         {
             bool input = true;
-            Console.WriteLine("Введите цифру\число или 0 для выхода: ");
+            Console.WriteLine("Введите цифру или число или 0 для выхода: ");
             while (input)
             {
                 if (Int32.TryParse(Console.ReadLine(), out int n))
@@ -25,7 +25,6 @@
                         Console.WriteLine("До свидания!");
                         input = false;
                     }
-
                 else
                 {
                     Console.WriteLine("Вы ввели неверный формат данных: ");

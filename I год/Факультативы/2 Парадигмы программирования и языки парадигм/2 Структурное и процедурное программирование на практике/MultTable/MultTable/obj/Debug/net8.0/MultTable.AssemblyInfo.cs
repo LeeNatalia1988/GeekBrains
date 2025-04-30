@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695b83fbf8f42d998de62a30491f493c3e3ebf77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e6bc9f549173a7c02f85d7df4a6f1dd005b83a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
